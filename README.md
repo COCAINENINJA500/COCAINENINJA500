@@ -1,31 +1,34 @@
-<img src="assets/banner.svg" alt="COCAINENINJA500" width="100%"/>
+<img src="assets/premium/banner.svg" alt="COCAINENINJA500" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=python+%C2%B7+go+%C2%B7+typescript;signal+%3E+noise;less+readme%2C+more+commit" alt="typing"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=COCAINENINJA500&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=COCAINENINJA500&style=flat-square&color=222222&label=VIEWS" alt="views"/>
 
 </div>
 
-## ⚡ STACK · 技术栈
+<img src="assets/premium/terminal.svg" width="100%"/>
+
+## STACK · 装备
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+
+<img src="assets/premium/divider.svg" width="100%"/>
+
+## FIELD · 方向
+
+- `>_` **security** — web 安全 · 渗透 · osint
+- `>_` **build** — python / go / typescript 工具与自动化 tools & automation
+
+<img src="assets/premium/signal.svg" width="100%"/>
+
+<img src="assets/premium/scanlines.svg" width="100%"/>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,js,ts,bash,git,linux&theme=dark" alt="stack"/>
-
+<sub>EOF · © COCAINENINJA500</sub>
 </div>
-
-## 🛰 FIELD · 方向
-
-- `security` — web 安全 · 渗透 · osint
-- `build` — python / go / typescript 工具与自动化 tools & automation
-
-```bash
-$ echo "bW9uZXkgdGFsa3M=" | base64 -d
-money talks
-```
-
-<img src="assets/footer.svg" alt="footer" width="100%"/>
