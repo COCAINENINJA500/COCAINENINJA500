@@ -7,6 +7,6 @@
     </linearGradient>
   </defs>
   <rect x="0" y="8" width="1200" height="2" fill="url(#line)"/>
-  <text x="600" y="44" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="17" fill="#8b949e">money talks · code walks · 白天敲码 · 晚上听 808</text>
+  <text x="600" y="44" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="17" fill="#8b949e">EOF</text>
   <text x="600" y="64" text-anchor="middle" font-family="monospace" font-size="12" fill="#30363d">© COCAINENINJA500</text>
 </svg>
