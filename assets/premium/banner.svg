@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img">
+  <rect width="1200" height="280" fill="#000000"/>
+  <rect x="0" y="279" width="1200" height="1" fill="#1f1f1f"/>
+
+  <text x="1110" y="52" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#3f3f3f" letter-spacing="3">EST.2026</text>
+
+  <text x="90" y="158" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="52" font-weight="500" fill="#ffffff" letter-spacing="6">COCAINENINJA500</text>
+  <rect x="648" y="122" width="14" height="40" fill="#22c55e" fill-opacity="0.85">
+    <animate attributeName="opacity" values="0.85;0.85;0;0" keyTimes="0;0.5;0.5;1" dur="1.3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="92" y="212" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="17" fill="#888888">— signal in the noise</text>
+</svg>
