@@ -1,35 +1,64 @@
+```bash
+███╗   ██╗██╗███╗   ██╗     ██╗ █████╗
+████╗  ██║██║████╗  ██║     ██║██╔══██╗
+██╔██╗ ██║██║██╔██╗ ██║     ██║███████║
+██║╚██╗██║██║██║╚██╗██║██   ██║██╔══██║
+██║ ╚████║██║██║ ╚████║╚█████╔╝██║  ██║
+╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝
+
+root@ninja:~$ ./init --profile COCAINENINJA500
+# stay lowkey · move silent · talk money
+```
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00E5FF,50:7C4DFF,100:FF2D95&section=header&text=COCAINENINJA500&fontSize=45&fontColor=ffffff&fontAlignY=34&desc=stay%20neon%20%C2%B7%20ship%20fast&descSize=17&descAlignY=55&animation=fadeIn" alt="header"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&lines=Hello+World%2C+I%27m+COCAINENINJA500;Python+%C2%B7+Go+%C2%B7+TypeScript;Building+cool+stuff%2C+one+commit+at+a+time" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=root%40ninja%3A~%24+whoami;python+%2F+go+%2F+typescript+%2F+bash;white+hat%2C+black+terminal;money+talks%2C+commits+louder;code+by+day%2C+808+by+night" alt="typing"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=COCAINENINJA500&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="views"/>
 
-### ⚡ Tech Stack
+</div>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)](https://go.dev)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=101010&labelColor=101010)](https://developer.mozilla.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)](https://www.typescriptlang.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com)
+## 🎯 ARSENAL · 装备库
 
-### 📊 GitHub Stats
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=COCAINENINJA500&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2D95&text_color=FFFFFF" width="49%" alt="stats"/>
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,bash,git,linux&theme=dark" alt="stack"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COCAINENINJA500&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" width="39%" alt="langs"/>
+</div>
 
-<br/>
+## 🖥 TERMINAL · 终端
 
-<img src="https://streak-stats.demolab.com?user=COCAINENINJA500&hide_border=true&background=0D1117&stroke=7C4DFF&ring=00E5FF&fire=FF2D95&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF" width="70%" alt="streak"/>
+```bash
+┌──(ninja㉿500)-[~]
+└─$ whoami
+    COCAINENINJA500 — 夜行开发者 night-shift builder
 
-<br/>
+└─$ cat ./mission.txt
+    [>] 研究网络安全          studying cybersecurity
+    [>] 训练渗透技能          training pentest skills
+    [>] 只做白帽              white hat only
+    [>] python · go · ts      技术栈即武器 stack as arsenal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF2D95,50:7C4DFF,100:00E5FF&section=footer" alt="footer"/>
+└─$ echo "bW9uZXkgdGFsa3M=" | base64 -d
+    money talks
+
+└─$ ./play --mode underground
+    🎤 "clean code, dirty bass — terminal 里全是 money talk"
+    🎤 "no cap in the changelog, no bug in the flow"
+    🎤 "凌晨三点 push, 500 次 commit 就是我的 platinum"
+
+└─$ sudo ./make_money
+    [sudo] password for ninja: ********
+    compiling money.exe ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 64%
+    [WARN] money.exe 尚未编译完成 · still compiling, stay tuned
+```
+
+<div align="center">
+
+> 💵 **"Money talks, code walks."** · 搞钱要紧，但 push 更要紧
+
+**© COCAINENINJA500** — powered by caffeine, lo-fi & 808s · 咖啡因与低音驱动
 
 </div>
