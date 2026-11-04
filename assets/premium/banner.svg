@@ -4,8 +4,6 @@
     <clipPath id="sliceB"><rect x="0" y="120" width="1200" height="24"/></clipPath>
   </defs>
 
-  <rect width="1200" height="220" fill="#0d1117"/>
-
   <text x="90" y="52" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#6e7681" letter-spacing="3">// TRANSMISSION</text>
   <text x="1110" y="52" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#6e7681" letter-spacing="3">EST.2026</text>
 
