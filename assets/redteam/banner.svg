@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0000"/>
+      <stop offset="1" stop-color="#140202"/>
+    </linearGradient>
+    <linearGradient id="rgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b0000"/>
+      <stop offset="0.5" stop-color="#ff2b2b"/>
+      <stop offset="1" stop-color="#8b0000"/>
+    </linearGradient>
+    <filter id="glowr" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="g2" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#ff2b2b" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg2)"/>
+  <rect width="1200" height="300" fill="url(#g2)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#rgrad)"/>
+  <rect x="0" y="297" width="1200" height="3" fill="url(#rgrad)"/>
+
+  <text x="90" y="92" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="20" fill="#ff2b2b">[WARNING] RESTRICTED PROFILE
+    <animate attributeName="opacity" values="1;1;0.25;1" keyTimes="0;0.86;0.92;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+
+  <g font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="58" font-weight="bold">
+    <text x="88" y="168" fill="#8b0000" fill-opacity="0.6" letter-spacing="2">COCAINENINJA500
+      <animate attributeName="x" values="88;88;83;92;88;88" keyTimes="0;0.70;0.73;0.76;0.79;1" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;1;0;1" keyTimes="0;0.70;0.72;0.74;0.76;1" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="90" y="168" fill="#f5f5f5" filter="url(#glowr)" letter-spacing="2">COCAINENINJA500</text>
+  </g>
+
+  <text x="90" y="228" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="15" fill="#7a7a7a">未经授权的访问将被记录 · unauthorized access will be logged</text>
+</svg>
