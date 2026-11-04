@@ -67,6 +67,11 @@
   <img src="assets/premium/scanlines-light.svg" alt="" width="100%">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/COCAINENINJA500/COCAINENINJA500/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/COCAINENINJA500/COCAINENINJA500/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+</picture>
+
 ## CONTACT
 
 <div align="center">
