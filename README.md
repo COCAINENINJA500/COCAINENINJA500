@@ -1,4 +1,7 @@
-<img src="assets/premium/banner.svg" alt="COCAINENINJA500" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/premium/banner.svg">
+  <img src="assets/premium/banner-light.svg" alt="COCAINENINJA500" width="100%">
+</picture>
 
 <div align="center">
 
@@ -6,7 +9,10 @@
 
 </div>
 
-<img src="assets/premium/terminal.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/premium/terminal.svg">
+  <img src="assets/premium/terminal-light.svg" alt="terminal" width="100%">
+</picture>
 
 ## STACK
 
@@ -36,10 +42,14 @@
 **`>_ Sec`**
 
 ![Burp%20Suite](https://img.shields.io/badge/-Burp%20Suite-161b22?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-161b22?style=flat-square&logo=wireshark&logoColor=white)
 
 </div>
 
-<img src="assets/premium/divider.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/premium/divider.svg">
+  <img src="assets/premium/divider-light.svg" alt="" width="100%">
+</picture>
 
 ## FIELD
 
@@ -47,9 +57,15 @@
 - `>_` **Ops** — 部署 · 容器 · 自动化 Deploy · Containers · Automation
 - `>_` **Sec** — Web 安全 · Pentest · OSINT
 
-<img src="assets/premium/signal.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/premium/signal.svg">
+  <img src="assets/premium/signal-light.svg" alt="decode" width="100%">
+</picture>
 
-<img src="assets/premium/scanlines.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/premium/scanlines.svg">
+  <img src="assets/premium/scanlines-light.svg" alt="" width="100%">
+</picture>
 
 ## CONTACT
 
