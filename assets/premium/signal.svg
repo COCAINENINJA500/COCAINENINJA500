@@ -1,27 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img">
-  <rect width="1200" height="160" fill="#000000"/>
-  <rect x="0" y="0" width="1200" height="1" fill="#1f1f1f"/>
+  <rect width="1200" height="160" fill="#0d1117"/>
 
-  <text x="90" y="46" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#3f3f3f" letter-spacing="3">// DECODE</text>
+  <text x="90" y="46" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#6e7681" letter-spacing="3">// DECODE</text>
 
   <!-- frame 1: raw noise glyphs -->
-  <text x="90" y="116" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="34" fill="#3f3f3f" letter-spacing="4">░▒▓ΞΠΣ§¶∆Ω#%&amp;01
+  <text x="90" y="116" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="34" fill="#6e7681" letter-spacing="4">░▒▓ΞΠΣ§¶∆Ω#%&amp;01
     <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.36;1" dur="6s" repeatCount="indefinite"/>
   </text>
 
   <!-- frame 2: corrupted read -->
-  <text x="90" y="116" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="32" fill="#555555" letter-spacing="4">S1GN4L-1N-N01S3
+  <text x="90" y="116" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="32" fill="#8b949e" letter-spacing="4">S1GN4L-1N-N01S3
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.38;0.55;0.60;1" dur="6s" repeatCount="indefinite"/>
   </text>
 
   <!-- frame 3: resolved -->
-  <text x="90" y="116" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="34" font-weight="bold" fill="#ffffff" letter-spacing="4">SIGNAL IN THE NOISE
+  <text x="90" y="116" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="34" font-weight="bold" fill="#f0f6fc" letter-spacing="4">SIGNAL IN THE NOISE
     <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.58;0.64;1" dur="6s" repeatCount="indefinite"/>
   </text>
   <g>
     <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.58;0.64;1" dur="6s" repeatCount="indefinite"/>
-    <rect x="566" y="88" width="12" height="32" fill="#22c55e" fill-opacity="0.85">
-      <animate attributeName="opacity" values="0.85;0.85;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+    <rect x="566" y="88" width="12" height="32" fill="#3fb950" fill-opacity="0.9">
+      <animate attributeName="opacity" values="0.9;0.9;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
   </g>
 </svg>
